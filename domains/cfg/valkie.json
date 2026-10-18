@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "vvproxyfan"
+  },
+  "records": {
+    "NS": [
+      "aaden.ns.cloudflare.com",
+      "maeve.ns.cloudflare.com"
+    ]
+  }
+}
